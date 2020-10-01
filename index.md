@@ -29,9 +29,9 @@ i bachelor of computer engineering student from payame noor parand university I 
   -computer engineering
 
 ### Education
-+bachelor of computer engineering
-   -Payame Noor University - Parand
-     -october 2018 to Present
++bachelor of computer engineering 
+    -Payame Noor University - Parand
+        -october 2018 to Present
 
 ### Licenses & Certifications
 +work for iToll check 
@@ -48,7 +48,7 @@ i bachelor of computer engineering student from payame noor parand university I 
 
 ### Quera Profile Link
 ---
-+  https://quera.ir/profile/naseri.sara78
++ ( https://quera.ir/profile/naseri.sara78)
 
 
 ### Resume Assessment
