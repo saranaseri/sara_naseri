@@ -50,7 +50,7 @@ i bachelor of computer engineering student from payame noor parand university I 
 
 ---
 
-[link] https://quera.ir/profile/naseri.sara78
+[link] (https://quera.ir/profile/naseri.sara78)
 
 
 ### Resume Assessment
