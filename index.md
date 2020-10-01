@@ -28,13 +28,14 @@ i bachelor of computer engineering student from payame noor parand university I 
   - computer engineering
 
 ### Education
++Diploma in mathematics & physics
+  - year 2016
+  
 + bachelor of computer engineering 
 
  - Payame Noor University - Parand
   - october 2018 to Present
 
-### Licenses & Certifications
-+ work for iToll check 
 
 ### Languages
 ---
