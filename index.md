@@ -34,7 +34,7 @@ i bachelor of computer engineering student from payame noor parand university I 
   - october 2018 to Present
 
 ### Licenses & Certifications
-+work for iToll check 
++ work for iToll check 
 
 ### Languages
 ---
@@ -51,7 +51,7 @@ i bachelor of computer engineering student from payame noor parand university I 
 
 ---
 
-+  https://quera.ir/profile/naseri.sara78/
++ https://quera.ir/profile/naseri.sara78/
 
 
 ### Resume Assessment
