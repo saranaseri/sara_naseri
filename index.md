@@ -29,7 +29,7 @@ i bachelor of computer engineering student from payame noor parand university I 
  -computer engineering
 
 ### Education
-+bachelor of computer engineering 
++ bachelor of computer engineering 
 
  - Payame Noor University - Parand
   - october 2018 to Present
