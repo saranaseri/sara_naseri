@@ -26,15 +26,13 @@ i bachelor of computer engineering student from payame noor parand university I 
 ### Working Experiencesout
 
 +college student 
-
  -computer engineering
 
 ### Education
 +bachelor of computer engineering 
 
-  -Payame Noor University - Parand
- 
-   -october 2018 to Present
+ -Payame Noor University - Parand
+ -october 2018 to Present
 
 ### Licenses & Certifications
 +work for iToll check 
