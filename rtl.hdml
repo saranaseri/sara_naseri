@@ -1,0 +1,8 @@
+  
+---
+layout: default
+theme: jekyll-theme-leap-day
+---
+<div style="direction: rtl">
+    {{ content }}
+</div>
