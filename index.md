@@ -53,7 +53,7 @@ i bachelor of computer engineering student from payame noor parand university I 
 
 ---
 
-[Resume](https://github.com/saranaseri/sara_naseri/blob/master/assessment/assessment.pdf)
+[Resume](https://github.com/assessment/assessment.pdf)
 
 ### Persian Resume
 
