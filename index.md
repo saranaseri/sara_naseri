@@ -24,9 +24,8 @@ i bachelor of computer engineering student from payame noor parand university I 
 
 
 ### Working Experiencesout
-
-+college student 
- -computer engineering
++ college student 
+  - computer engineering
 
 ### Education
 + bachelor of computer engineering 
