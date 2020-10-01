@@ -46,7 +46,6 @@ i bachelor of computer engineering student from payame noor parand university I 
 
   - Native
 
- 
  ### Quera Profile Link
 ---
 +  https://quera.ir/profile/naseri.sara78
