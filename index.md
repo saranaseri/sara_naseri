@@ -25,12 +25,16 @@ i bachelor of computer engineering student from payame noor parand university I 
 
 ### Working Experiencesout
 
-+college student
-  -computer engineering
++college student 
+ 
+ 
+     -computer engineering
 
 ### Education
 +bachelor of computer engineering 
+
     -Payame Noor University - Parand
+    
         -october 2018 to Present
 
 ### Licenses & Certifications
@@ -48,7 +52,7 @@ i bachelor of computer engineering student from payame noor parand university I 
 
 ### Quera Profile Link
 ---
-+ ( https://quera.ir/profile/naseri.sara78)
++https://quera.ir/profile/naseri.sara78
 
 
 ### Resume Assessment
