@@ -26,8 +26,7 @@ i bachelor of computer engineering student from payame noor parand university I 
 ### Working Experiencesout
 
 +college student
-
- -computer engineering
+  -computer engineering
 
 ### Education
 +bachelor of computer engineering
@@ -45,6 +44,7 @@ i bachelor of computer engineering student from payame noor parand university I 
 + Persian
 
   - Native
+
 
 ### Quera Profile Link
 ---
