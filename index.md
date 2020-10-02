@@ -65,4 +65,4 @@ i bachelor of computer engineering student from payame noor parand university I 
 
 ---
 
-[رزومه فارسی](/index-fa.md)
+[Persian Resume](/index-fa.md)
