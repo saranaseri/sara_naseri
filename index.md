@@ -60,8 +60,7 @@ i bachelor of computer engineering student from payame noor parand university I 
 ---
 
 [Resume](https://github.com/saranaseri/PNU_3991_AR/blob/main/XX_CV_CheckList_AR_3991.pdf)
-[Resume](https://github.com/saranaseri/PNU_3991_AR/blob/main/XX_GeneralSection_CheckList_AR_3991.pdf)
-[Resume]()
+
 
 ### Persian Resume
 
